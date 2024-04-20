@@ -1,0 +1,32 @@
+7.1) 
+<meta name="facebook-domain-verification" content="qesj3iczxzmzxjgtwdd29yfsa6z4mf"> 
+<meta name="google-site-verification" content="Q2MG5YLr_gV0O3oyFPHchYRPLIk9GdCEJP3Sd2Xht9c"> 
+<meta name="theme-color" content="#ffffff"> 
+<meta name="msapplication-config" content="/images/favicons/browserconfig.xml"> 
+<meta name="msapplication-TileColor" content="#da532c"> 
+<meta name="csrf-token" content="_13-ZxPdesnqIYYMlhLajXeOb94r54fiOlYad3h8SAy-ar8EQ7U8v6tut03UIYXYNdc8gXrWya0CYVgkEk88OQ=="> 
+<meta name="csrf-param" content="_csrf-shop"> 
+<meta name="facebook-domain-verification" content="qesj3iczxzmzxjgtwdd29yfsa6z4mf"> 
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0"> 
+<meta charset="utf-8">
+
+В предоставленных метаданных отсутствует информация о заголовке страницы, описании и ключевых словах, которые обычно рекомендуется использовать для оптимизации поисковой выдачи. 
+Фактические метаданные: theme-color, msapplication-TileColor, viewport, charset, csrf-token, csrf-param.
+Рекомендации по снипетам: Красткое мета-описание, Информативный заголовок, Оптимизировать изображения и иконки, проводить тестирование заголовков.
+
+7.2)
+Теги <р> используются для оформления абзацев текста, текст разделен абзацами, чтобы его было удобнее читать
+Списки: каждый элемент списка обёрнут в тег <li>
+h-заголовки: заголовки используются логично и последовательно. h1 используется для основоных заголовков, а h2 для подзаголовков и разделов, что правильно.
+
+7.3)
+В тексте не было обнаружено орфографических ошибок. Присутствуют изображения без аттрибута alt.
+
+7.4)
+<iframe id="analyticsFrame" 
+        title="Акционные товары" 
+        tabindex="-1" 
+        aria-hidden="true" 
+        src="about:blank" 
+        style="display: none; width: 1px; height: 1px; opacity: 0; pointer-events: none;">
+</iframe>
